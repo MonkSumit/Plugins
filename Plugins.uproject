@@ -148,7 +148,7 @@
 		},
 		{
 			"Name": "HoudiniEngine",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
